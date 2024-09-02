@@ -40,8 +40,8 @@ This project is a bot that utilizes the Gemini API for AI interactions.
    source nyx/bin/activate
 
 ## Install Project Dependencies, Configure Environment Variable and Run the Application:
-   ```bash
-   pip install -r requirements.txt
+# Install Project Dependencies
+   - pip install -r requirements.txt
 
 # Configure Environment Variables:
     1. Open the .env file and add your API key:
@@ -51,7 +51,7 @@ This project is a bot that utilizes the Gemini API for AI interactions.
        GOOGLE_API_KEY = "<Your API Key>"
 
 # Run the Application:
-   streamlit run nyxBot.py
+  - streamlit run nyxBot.py
 
 ## Edit your Inbound Rules like this:
-[image](https://github.com/user-attachments/assets/466f4839-d0d7-4aa3-b5f4-b71e56cc3b3a
+[image](https://github.com/user-attachments/assets/466f4839-d0d7-4aa3-b5f4-b71e56cc3b3a)
