@@ -1,1 +1,54 @@
-# Gemini-API-Project
+# Gemini-API-Project by Thinknyx Technologies
+
+This project is a bot that utilizes the Gemini API for AI interactions.
+
+## Prerequisites
+
+- Ensure you have Python 3.12 installed on your machine.
+- You need to have an API key for the Gemini API.
+
+## Setup Instructions
+
+1. **Get Your API Key:**
+   - Visit [Gemini API](https://ai.google.dev/gemini-api) to obtain your API key.
+
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/dheeraj-sain/Gemini-Bot.git
+   cd Gemini-Bot/
+
+## Install Python Dependencies
+
+1. **Install pip if it's not already installed:**
+   ```bash
+   apt install python3-pip
+
+2. **Install virtualenv:**
+   ```bash
+   apt-get install python3-virtualenv
+   
+3. **Install Python virtual environment tools:**
+   ```bash
+   apt install python3.12-venv
+
+4. **Create a virtual environment:**
+   ```bash
+   python3 -m venv nyx
+   
+5. **Activate the virtual environment:**
+   ```bash
+   source nyx/bin/activate
+
+## Install Project Dependencies, Configure Environment Variable and Run the Application:
+   ```bash
+   pip install -r requirements.txt
+
+# Configure Environment Variables:
+    1. Open the .env file and add your API key:
+       vi .env
+
+    2. Add the following line:
+       GOOGLE_API_KEY = "<Your API Key>"
+
+# Run the Application:
+   streamlit run nyxBot.py
