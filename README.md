@@ -12,7 +12,12 @@ This project is a bot that utilizes the Gemini API for AI interactions.
 1. **Get Your API Key:**
    - Visit [Gemini API](https://ai.google.dev/gemini-api) to obtain your API key.
 
-2. **Clone the Repository:**
+2. **Update your machine:**
+   ```bash
+   apt-get update
+   apt-get upgrade
+
+3. **Clone the Repository:**
    ```bash
    git clone https://github.com/dheeraj-sain/Gemini-Bot.git
    cd Gemini-Bot/
