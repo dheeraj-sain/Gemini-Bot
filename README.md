@@ -66,4 +66,4 @@ This project is a bot that utilizes the Gemini API for AI interactions.
 
 
 ## Edit your Inbound Rules like this:
-[image](https://github.com/user-attachments/assets/466f4839-d0d7-4aa3-b5f4-b71e56cc3b3a)
+![image](https://github.com/user-attachments/assets/466f4839-d0d7-4aa3-b5f4-b71e56cc3b3a)
